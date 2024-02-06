@@ -51,6 +51,20 @@
             }
         }
     },
+    "ui/login": {
+        "name": "ui/login",
+        "scope": "",
+        "version": "",
+        "defaultScope": "jkhanseong.bit-tutorial",
+        "mainFile": "index.ts",
+        "rootDir": "bit-tutorial/ui/login",
+        "config": {
+            "jkhanseong.bit-tutorial/envs/my-react-env": {},
+            "teambit.envs/envs": {
+                "env": "jkhanseong.bit-tutorial/envs/my-react-env"
+            }
+        }
+    },
     "ui/title": {
         "name": "ui/title",
         "scope": "",
